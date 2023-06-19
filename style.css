@@ -1,0 +1,136 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("images/back2.png");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  /* Rest of your CSS styles */
+  
+  
+  header {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .banner {
+    text-align: center;
+  }
+  
+  .banner h1 {
+    font-size: 36px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  .blog-post {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  /* Rest of your CSS styles */
+
+.blog-post {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .blog-post h2 {
+    color: #333;
+  }
+  
+  .blog-post p {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  h1, h2 {
+    color: #fffafa;
+  }
+  
+  p {
+    color: #fff8dc;
+  }
+  
+  .actions {
+    margin-top: 10px;
+  }
+  
+  .like-button {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .comments {
+    margin-top: 20px;
+  }
+  
+  h3 {
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .comment-button {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+.mini-menu {
+    background-color: #f9f9f9;
+    padding: 10px;
+  }
+  
+  .mini-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .mini-menu li {
+    display: inline;
+  }
+  
+  .mini-menu li a {
+    text-decoration: none;
+    color: #333;
+    padding: 8px 16px;
+    border-radius: 4px;
+  }
+  
+  .mini-menu li a:hover,
+  .mini-menu li a.active {
+    background-color: #333;
+    color: #fff;
+  }
+  
